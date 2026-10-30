@@ -1,0 +1,336 @@
+[
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_01_standard_fields",
+    "modality": "pdf",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_01_standard_fields",
+    "modality": "docx",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_02_free_form_relative",
+    "modality": "pdf",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_02_free_form_relative",
+    "modality": "docx",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_03_name_punctuation",
+    "modality": "pdf",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_03_name_punctuation",
+    "modality": "docx",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_04_name_variants",
+    "modality": "pdf",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_04_name_variants",
+    "modality": "docx",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_05_date_formats",
+    "modality": "pdf",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_05_date_formats",
+    "modality": "docx",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 0.6666666666666666,
+    "missing_clinical": [
+      "bedtime"
+    ],
+    "id": "case_06_identifier_formats",
+    "modality": "pdf",
+    "status": "FAIL"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 0.6666666666666666,
+    "missing_clinical": [
+      "bedtime"
+    ],
+    "id": "case_06_identifier_formats",
+    "modality": "docx",
+    "status": "FAIL"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_07_contact_web_network",
+    "modality": "pdf",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_07_contact_web_network",
+    "modality": "docx",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_08_physician_and_facility",
+    "modality": "pdf",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_08_physician_and_facility",
+    "modality": "docx",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_09_multiline_address",
+    "modality": "pdf",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_09_multiline_address",
+    "modality": "docx",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_10_table_layout",
+    "modality": "pdf",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_10_table_layout",
+    "modality": "docx",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_11_header_footer",
+    "modality": "pdf",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_11_header_footer",
+    "modality": "docx",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 0.3333333333333333,
+    "missing_clinical": [
+      "Insulin glargine",
+      "18 units"
+    ],
+    "id": "case_12_repeated_phi",
+    "modality": "pdf",
+    "status": "FAIL"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 0.3333333333333333,
+    "missing_clinical": [
+      "Insulin glargine",
+      "18 units"
+    ],
+    "id": "case_12_repeated_phi",
+    "modality": "docx",
+    "status": "FAIL"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_13_age_over_89",
+    "modality": "pdf",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_13_age_over_89",
+    "modality": "docx",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 0.8888888888888888,
+    "missing_clinical": [
+      "St. John's wort"
+    ],
+    "id": "case_14_false_positive_medications",
+    "modality": "pdf",
+    "status": "FAIL"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 0.8888888888888888,
+    "missing_clinical": [
+      "St. John's wort"
+    ],
+    "id": "case_14_false_positive_medications",
+    "modality": "docx",
+    "status": "FAIL"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_15_ambiguous_names_places",
+    "modality": "pdf",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_15_ambiguous_names_places",
+    "modality": "docx",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 0.8,
+    "missing_clinical": [
+      "five days"
+    ],
+    "id": "case_16_unstructured_story",
+    "modality": "pdf",
+    "status": "FAIL"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 0.8,
+    "missing_clinical": [
+      "five days"
+    ],
+    "id": "case_16_unstructured_story",
+    "modality": "docx",
+    "status": "FAIL"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_17_all_identifier_types",
+    "modality": "pdf",
+    "status": "PASS"
+  },
+  {
+    "phi_recall": 1.0,
+    "leaked_phi": [],
+    "preservation": 1.0,
+    "missing_clinical": [],
+    "id": "case_17_all_identifier_types",
+    "modality": "docx",
+    "status": "PASS"
+  },
+  {
+    "id": "case_18_scanned_image",
+    "modality": "pdf",
+    "status": "OCR_OR_BLOCK_REQUIRED"
+  },
+  {
+    "id": "case_18_scanned_image",
+    "modality": "docx",
+    "status": "OCR_OR_BLOCK_REQUIRED"
+  }
+]
